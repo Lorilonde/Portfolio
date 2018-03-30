@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/Lorilonde/Portfolio/edit/m
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+![Image](https://lorilonde.github.io/Portfolio/logo_v2.png)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
